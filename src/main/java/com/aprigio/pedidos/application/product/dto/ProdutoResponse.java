@@ -1,4 +1,4 @@
-package com.aprigio.pedidos.application.dto;
+package com.aprigio.pedidos.application.product.dto;
 
 import java.math.BigDecimal;
 

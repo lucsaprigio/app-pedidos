@@ -1,7 +1,7 @@
-package com.aprigio.pedidos.application.usecases;
+package com.aprigio.pedidos.application.product.usecases;
 
-import com.aprigio.pedidos.application.dto.ProdutoRequest;
-import com.aprigio.pedidos.application.dto.ProdutoResponse;
+import com.aprigio.pedidos.application.product.dto.ProdutoRequest;
+import com.aprigio.pedidos.application.product.dto.ProdutoResponse;
 import com.aprigio.pedidos.domain.entity.Product;
 import com.aprigio.pedidos.domain.repository.ProdutoRepository;
 import lombok.RequiredArgsConstructor;

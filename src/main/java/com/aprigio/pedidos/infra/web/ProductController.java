@@ -1,8 +1,8 @@
 package com.aprigio.pedidos.infra.web;
 
-import com.aprigio.pedidos.application.dto.ProdutoRequest;
-import com.aprigio.pedidos.application.dto.ProdutoResponse;
-import com.aprigio.pedidos.application.usecases.*;
+import com.aprigio.pedidos.application.product.dto.ProdutoRequest;
+import com.aprigio.pedidos.application.product.dto.ProdutoResponse;
+import com.aprigio.pedidos.application.product.usecases.*;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
